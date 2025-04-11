@@ -13,5 +13,4 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react/>
   
 <br>
-:computer:
-<img width="30%" height="20%"  src="https://github.com/Rafaelpidias/CurrencyConverter/blob/master/assets/PrintConverter.PNG?raw=true">
+<img width="30%" height="20%"  src="https://github.com/Rafaelpidias/devclub-cadastro-usuarios/blob/main/src/assets/mockup_react.png?raw=true">
