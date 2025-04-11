@@ -1,4 +1,4 @@
-<h1 align="center">CurrencyConverter</h1>
+<h1 align="center">CadastroUsuarios</h1>
 <br>
 <p>Projeto realizado com React, criação de componentes e suas reutilizações, hooks, conceitos de useEffect,useref, useState, React Router DOM, Proptypes.
   Cors, autenticação para acessar o backend. Diversas ferramentas são usadas no React, um trabalho bem complexo e é a tendência do mercado.
