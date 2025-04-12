@@ -3,7 +3,7 @@
 <p>Projeto realizado com React, criação de componentes e suas reutilizações, hooks, conceitos de useEffect,useref, useState, React Router DOM, Proptypes.
   Cors, autenticação para acessar o backend. Diversas ferramentas são usadas no React, um trabalho bem complexo e é a tendência do mercado.
   A utilização de bibliotecas para que é bem útil e importante para agilzar a estilização. Realmente um projeto bem completo que conecta o cliente ao     
-  backend, mostrando o cadastro de usuários em banco de dados mongoDB.
+  backend, mostrando o cadastro de usuários em banco de dados MongoDB.
 
 <br>
 <p>Tecnologias usadas:</p>
@@ -13,4 +13,5 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react/>
   
 <br>
-<img width="50%" height="30%"  src="https://github.com/Rafaelpidias/devclub-cadastro-usuarios/blob/main/src/assets/mockup_react.png?raw=true"/>
+<br>
+<img width="50%" height="30%" src="https://raw.githubusercontent.com/Rafaelpidias/devclub-cadastro-usuarios/refs/heads/main/src/assets/mockup_react.png?token=GHSAT0AAAAAADCCX5B4SF4IILV5P2EU2I7UZ72ZKGA">
