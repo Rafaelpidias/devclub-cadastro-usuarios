@@ -14,4 +14,6 @@
   
 <br>
 <br>
+
 <img src="https://i.imgur.com/fM1ReuS.png" alt="Mockup do projeto" width="500"/>
+ 
