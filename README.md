@@ -2,7 +2,7 @@
 <br>
 <p>Projeto realizado com React, criação de componentes e suas reutilizações, hooks, conceitos de useEffect,useref, useState, React Router DOM, Proptypes.
   Cors, autenticação para acessar o backend. Diversas ferramentas são usadas no React, um trabalho bem complexo e é a tendência do mercado.
-  A utilização de bibliotecas para que é bem útil e importante para agilzar a estilização. Realmente um projeto bem completo que conecta o cliente ao     
+  A utilização de bibliotecas é bem útil e importante para agilzar a estilização. Realmente um projeto bem completo que conecta o cliente ao     
   backend, mostrando o cadastro de usuários em banco de dados MongoDB.
 
 <br>
